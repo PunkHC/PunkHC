@@ -62,9 +62,8 @@ I’m a self-taught cybersecurity enthusiast eager to begin my career in IT and 
 <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 https://www.coursera.org/professional-certificates/google-cybersecurity <br>
 <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" /> https://tryhackme.com/certificate/THM-GURGCZO3EZ <br>
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" /> <br>
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" /> <br>
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" /> <br>
+<img src="https://img.shields.io/badge/-Cyber_Sentinel_Skills_Challenge-0C2340?&style=for-the-badge" /> https://www.credential.net/be8d957a-89de-4ad0-b73d-21a923b4797c#acc.td1ymc48 <br>
+
 </div>
 
 ## Projects

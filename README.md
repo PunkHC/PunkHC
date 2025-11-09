@@ -3,7 +3,19 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+# 🧠 My Cybersecurity Journey
+
+Welcome! I'm a **self-taught junior cybersecurity analyst** passionate about ethical hacking, digital forensics, and defensive security.  
+This repository documents my learning path, lab work, scripts, and notes as I build real-world skills.
+
+---
+
+## 🔒 About Me
+- 💻 Focus Areas: Network Security, Threat Hunting, SIEM, Vulnerability Assessment  
+- 🧰 Tools I use: Kali Linux, Wireshark, Nmap, Burp Suite, Metasploit, Splunk  
+- 🧠 Learning From: TryHackMe, HackTheBox, and home labs  
+- 🌱 Goal: To become a full-time SOC Analyst or Penetration Tester  
+
 
 ## Objective
 [Provide Objective - Remove this afterwards]]

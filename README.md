@@ -1,10 +1,10 @@
-# Hi,my name is Vitali Z.
+# Hi,my name is Vitali Z!
 <a href="https://www.linkedin.com/in/vitalizhukau/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 # 🧠 My Cybersecurity Journey
 
-Welcome! I'm a **self-taught junior cybersecurity analyst** passionate about ethical hacking, digital forensics, and defensive security.  
+I'm a **self-taught junior cybersecurity analyst** passionate about ethical hacking, digital forensics, and defensive security.  
 This repository documents my learning path, lab work, scripts, and notes as I build real-world skills.
 
 ---
